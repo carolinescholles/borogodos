@@ -8,4 +8,4 @@ Assuntos aleatórios.
 
 Tema: https://themes.gohugo.io/themes/hugo-tania/
 
-Esse repositório faz parte do artigo [Como criar e hospedar um blog de graça com Hugo e Github Pages](#) - TBD
+Esse repositório faz parte do artigo [Como criar e hospedar um blog de graça com Hugo e Github Pages](https://carolinescholles.com/br/blog-gratis-hugo-github-pages/)
